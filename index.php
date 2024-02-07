@@ -21,7 +21,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; <?php echo date("Y"); ?> Your Name</p>
+        <p>&copy; <?php echo date("Y"); ?> Love from India !!</p>
     </footer>
 </body>
 </html>

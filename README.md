@@ -3,8 +3,11 @@
     ```bash
     oc new-app https://github.com/kalpitmalviya/ocp_web.git
     ```
+2. Expose the application to get the route:
+    ```bash
+    oc expose svc/ocpweb
 
-2. Start the build process:
+3. Start the build process:
     ```bash
     oc start-build ocpweb
     ```

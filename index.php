@@ -13,7 +13,7 @@
     <main>
         <section class="content">
             <h2>About Me</h2>
-            <p>This is a simple one-page website created using HTML, CSS, and PHP.</p>
+            <p>This is Kalpit Malviya.</p>
         </section>
         <section class="content">
             <h2>Latest Blog Post</h2>
